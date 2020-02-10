@@ -1,0 +1,32 @@
+/*This is the CSS for the body of the web page*/
+body {
+	/*This will make the background colour of the web page skyblue*/
+	background-color: skyblue
+}
+/*This is the CSS for all the tables of the web page*/
+table {
+	/*This will make the background colour of the table skyblue*/
+	background-color: skyblue;
+	/*This will align all the text to the centre*/
+	text-align: center
+}
+/*This is the CSS for the headings of the web page*/
+h1 {
+	/*This will change the font colour to Red*/
+	color: Black;
+	/*This will change the font style to Arial Black*/
+	font-family:"Arial Black"
+}
+/*This is the CSS for the headings on each table*/
+h2{
+	/*This will change the font style to Arial Black*/
+	font-family:"Tahoma";
+	font-weight: bold
+}
+/*This is the CSS for the paragraph text of the web page*/
+p {
+	/*This will change the font colour to Black*/
+	color: Black;
+	/*This will change the font style to Trebuchet MS*/
+	font-family:"Trebuchet MS"
+}
